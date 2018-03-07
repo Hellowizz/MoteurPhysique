@@ -1,0 +1,20 @@
+Link
+
+Longueur intiale
+raideur
+visquosité (disipation de l'énergie)
+seuil (après il se casse)
+
+
+Point Fixe
+
+masse : infini
+position constante
+vitesse et accélération : 0
+
+
+Forces sur un point :
+x(t) = x0 * t
+z(t) = -(g/2)*t^2 + z0 * t + z0
+
+choisir un t pas entre deux points; tant que z(t) >= 0 tracer poin
